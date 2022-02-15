@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cas.png"><SubTexture name="cas idle0000" x="0" y="0" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0001" x="511" y="0" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0002" x="0" y="827" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0003" x="511" y="827" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0004" x="0" y="1654" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0005" x="511" y="1654" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+<SubTexture name="cas idle0006" x="0" y="2481" width="511" height="827" frameX="0" frameY="0" frameWidth="511" frameHeight="827" />
+</TextureAtlas>

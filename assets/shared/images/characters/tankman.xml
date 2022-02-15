@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman.png"><SubTexture name="tankman idle0000" x="0" y="0" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0001" x="551" y="0" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0002" x="1102" y="0" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0003" x="0" y="560" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0004" x="551" y="560" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0005" x="1102" y="560" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman idle0006" x="0" y="1120" width="551" height="560" frameX="0" frameY="0" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman right0000" x="551" y="1120" width="564" height="568" frameX="0" frameY="0" frameWidth="564" frameHeight="568" />
+<SubTexture name="tankman right0001" x="1115" y="1120" width="564" height="568" frameX="0" frameY="0" frameWidth="564" frameHeight="568" />
+<SubTexture name="tankman left0000" x="0" y="1688" width="578" height="585" frameX="0" frameY="0" frameWidth="578" frameHeight="585" />
+<SubTexture name="tankman left0001" x="578" y="1688" width="578" height="585" frameX="0" frameY="0" frameWidth="578" frameHeight="585" />
+<SubTexture name="tankman up0000" x="1156" y="1688" width="589" height="604" frameX="0" frameY="0" frameWidth="589" frameHeight="604" />
+<SubTexture name="tankman up0001" x="0" y="2292" width="589" height="604" frameX="0" frameY="0" frameWidth="589" frameHeight="604" />
+<SubTexture name="tankman down0000" x="589" y="2292" width="485" height="510" frameX="0" frameY="0" frameWidth="485" frameHeight="510" />
+<SubTexture name="tankman down0001" x="1074" y="2292" width="485" height="510" frameX="0" frameY="0" frameWidth="485" frameHeight="510" />
+</TextureAtlas>
