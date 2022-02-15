@@ -5371,7 +5371,7 @@
 		"stage": "tankhard",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 2.8,
+		"speed": 2.5,
 		"bpm": 185
 	}
 }
